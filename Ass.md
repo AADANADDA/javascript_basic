@@ -1,7 +1,7 @@
 # javascript Assingment Questions
 
 ##  first Assignment
-- [ ] what is program
+- [x] what is program
 - [ ] what is programming
 - [ ] what is programming language
 - [ ] History of javascript
